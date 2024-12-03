@@ -23,52 +23,69 @@ const nightChanges = [
 
 const hopeIsTheThingWithFeathers = [
     {
-        name: "Heads up",
-        duration: 500
+        name: "\nHeads up!",
+        newLine: false,
+        duration: 0
     },
     {
         name: "the wheels are spinning",
-        duration: 500
+        newLine: true,
+        duration: 1800
     },
     {
         name: "Across the plains and valleys deep",
-        duration: 3000
+        newLine: true,
+        duration: 1800
     },
     {
         name: "To dawn",
-        duration: 1000
+        newLine: true,
+        duration: 3800
     },
     {
         name: "the wheels that sing",
-        duration: 1000
+        newLine: true,
+        duration: 1800
     },
     {
         name: "An unending dream",
-        duration: 1000
+        newLine: true,
+        duration: 1800
     },
     {
-        name: "Heads up",
-        duration: 1000
+        name: "Heads up!",
+        newLine: false,
+        duration: 3800 // kk
     },
     {
         name: "the tracks are running",
-        duration: 1000
+        newLine: true,
+        duration: 1800
     },
     {
         name: "Across the plains where shadows hide",
-        duration: 1000
+        newLine: true,
+        duration: 1800
     },
     {
         name: "We run",
-        duration: 1000
+        newLine: true,
+        duration: 3800
     },
     {
         name: "we stride",
-        duration: 1000
+        newLine: true,
+        duration: 1800
     },
     {
         name: "whoa-whoa",
-        duration: 1000
+        newLine: true,
+        duration: 1800
+    },
+    {
+        name: "",
+        newLine: false,
+        duration: 3800
     },
 ]
 
