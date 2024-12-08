@@ -1,0 +1,13 @@
+{
+  "name": "lyrics-generator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "cls && node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adli Suryadin",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
