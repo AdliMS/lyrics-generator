@@ -1,36 +1,3 @@
-const nightChanges = [
-    {
-        name: "Goin' out tonight",
-        newLine: true,
-        duration: 0
-    },
-    {
-        name: "Changes into somethin' red",
-        newLine: true,
-        duration: 1800
-    },
-    {
-        name: "Her mother,",
-        newLine: false,
-        duration: 2000
-    },
-    {
-        name: "doesn't like that kind of dress",
-        newLine: true,
-        duration: 1800
-    },
-    {
-        name: "Everything she never had",
-        newLine: true,
-        duration: 2200
-    },
-    {
-        name: "she's showin' off",
-        newLine: true,
-        duration: 3000
-    },
-]
-
 const hopeIsTheThingWithFeathers = [
     {
         name: "Heads up!",
@@ -112,4 +79,4 @@ const hopeIsTheThingWithFeathers = [
     },
 ]
 
-export {nightChanges, hopeIsTheThingWithFeathers};
+export {nightChanges, nightChanges2, nightChanges3, nightChanges4, hopeIsTheThingWithFeathers};
